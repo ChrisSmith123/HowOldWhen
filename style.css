@@ -78,16 +78,13 @@ background-repeat: no-repeat;
 }
   
 .gridRow {
-  width: 500px;
-  float: left; 
-  height: 300px;
-
-
+  width: 210px;
+  left: 50%;
 }
 
 .results {
   margin-top:220px;
-    display: inline-block;
+  width: 600px;
 }
 
 table {
