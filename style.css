@@ -87,7 +87,8 @@ background-repeat: no-repeat;
 
 .results {
   margin-top:220px;
-    display: inline-block;
+  width:600px;
+ left: 50%;
 }
 
 table {
